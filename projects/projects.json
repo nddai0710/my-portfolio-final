@@ -2,7 +2,7 @@
   {
     "name": "Demo Karaoke Bar Manager",
     "desc": "Using html and css demo application helps users easily manage karaoke bars",
-    "image": "qlykaraoke",
+    "image": "qlykaraoke.png",
     "category": "mern",
     "links": {
       "code": "https://github.com/nddai0710/Demo_WebKROK"
@@ -12,7 +12,7 @@
   {
     "name": "Library Credit Lending Is Expected",
     "desc": "Draw a decision tree using python.",
-    "image": "cart",
+    "image": "cart.png",
     "category": "mern",
     "links": {
       "code": "https://colab.research.google.com/drive/1tVH_tHCrgOGTDQEiD67qOhKpfskLHf2N"
